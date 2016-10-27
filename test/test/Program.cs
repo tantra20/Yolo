@@ -11,6 +11,7 @@ namespace test
     static void Main(string[] args)
     {
       Console.WriteLine("#yoloooooooooooooo");
+      Console.WriteLine("Good Job :v");
     }
   }
 }
